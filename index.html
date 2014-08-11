@@ -1,0 +1,36 @@
+<html ng-app="indeedApp">
+<head>
+  <script src="js/angular.js"></script>
+  <script src="js/controllers.js"></script>
+  <title>Indeed App</title>
+
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom CSS -->
+  <link href="css/main.css" rel="stylesheet">
+</head>
+<body ng-controller="JobListCtrl">
+  </br>
+  <center class="title">Indeed App</center>
+  </br>
+  <div class="container">
+  <div>
+    <b><i>Filter the jobs:</i></b>
+    <input type="text" ng-model="query" />
+  </div>
+  <br>
+    <div ng-repeat="job in jobs | filter:query">
+      <p class="job">
+	<b><a href={{job.url}}> {{job.jobtitle}} </a> </b> </br>
+	<b>Company:</b> {{job.company}} </br>
+	<b>Description: </b> {{job.snippet}} </br>
+	<span class="reltime">{{job.formattedRelativeTime}}</span>
+      </p>
+    </div>
+</div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

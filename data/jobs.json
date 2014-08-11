@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
+
+    "version" : 2,
+    "query" : "java",
+    "location" : "austin, tx",
+    "dupefilter" : true,
+     
+    "highlight" : true,
+    
+    "radius" : 25,
+    
+    
+    "start" : 1,
+    "end" : 10,
+    "totalResults" : 1109,
+     
+    "pageNumber" : 0,
+    
+    
+    
+    
+
+     
+
+    
+
+    
+
+    "results" : [
+        
+            
+                {
+                    "jobtitle" : "Software Development Engineer, AmazonSupply & B2B",
+                    "company" : "Amazon Corporate LLC",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "Amazon.com",
+                    "date" : "Fri, 08 Aug 2014 18:58:00 GMT",
+                    "snippet" : "in developing software in at least one modern programming language such as <b>Java<\/b>, C++, C# or Scala Experience developing service oriented architectures and an... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=2167c5e68a00cace&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "2167c5e68a00cace",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "1 day ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Sr Software Development Engineer, AmazonSupply & B2B",
+                    "company" : "Amazon Corporate LLC",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "Amazon.com",
+                    "date" : "Fri, 08 Aug 2014 18:58:00 GMT",
+                    "snippet" : "in developing software in at least one modern programming language such as <b>Java<\/b>, C++, C# or Scala Experience developing service oriented architectures and an... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=7a4fe4b4d29f4e29&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "7a4fe4b4d29f4e29",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "1 day ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Software Development Engineer, B2B - Austin, TX",
+                    "company" : "Amazon Corporate LLC",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "Amazon.com",
+                    "date" : "Sat, 09 Aug 2014 00:42:31 GMT",
+                    "snippet" : "in developing software in at least one modern programming language such as <b>Java<\/b>, C#, C++, or Scala Experience developing service oriented architectures and an... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=ab7f500c5eb9cee9&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "ab7f500c5eb9cee9",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "1 day ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Applications Developer 3",
+                    "company" : "Oracle",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "Oracle",
+                    "date" : "Fri, 01 Aug 2014 17:07:05 GMT",
+                    "snippet" : "MVC design patterns, <b>Java<\/b>, J2EE, Web Services, SOA... patterns, Oracle ADF techstack that includes core <b>java<\/b>, Webservices, SOA and Oracle database technology... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=a6afc3375f394de8&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "a6afc3375f394de8",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "9 days ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Senior Research Scientist",
+                    "company" : "21CT",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "21CT",
+                    "date" : "Tue, 05 Aug 2014 19:04:34 GMT",
+                    "snippet" : "machine learning, statistical analysis Ability to implement algorithms in <b>Java<\/b> or Python Strong problem solving, writing, and verbal communication skills... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=3f619ad9c4ded3bf&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "3f619ad9c4ded3bf",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "4 days ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Java Developer",
+                    "company" : "Cirrus Logic",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "Cirrus Logic",
+                    "date" : "Wed, 06 Aug 2014 23:11:46 GMT",
+                    "snippet" : "complex <b>Java<\/b> software systems from high-level requirements Generate detailed, written architecture and API specifications Develop all layers of <b>Java<\/b> software... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=ce9a67caf37e3d45&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "ce9a67caf37e3d45",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "3 days ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Dev Ops Engineer (Remote) Dell SecureWorks",
+                    "company" : "Dell",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "Dell",
+                    "date" : "Fri, 08 Aug 2014 11:27:00 GMT",
+                    "snippet" : "Batch, Python, Ruby, Perl, and <b>Java<\/b> -Programming knowledge in <b>java<\/b>, scala and php -Experience in building web applications (preferably using <b>Java<\/b>, but would... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=8e204e5f4bfbebdb&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "8e204e5f4bfbebdb",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "2 days ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Enrty Level Software Developer",
+                    "company" : "IBM",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "IBM",
+                    "date" : "Fri, 01 Aug 2014 01:40:18 GMT",
+                    "snippet" : "Generation of IBM Systems. This position requires <b>Java<\/b>, Object Oriented Design (OOD) skills and knowledge... experience in C, C++, <b>Java<\/b>, Python, Perl, Shell... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=4c7473bbdb7d63a0&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "4c7473bbdb7d63a0",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "9 days ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Sr. Associate - Projects",
+                    "company" : "Cognizant",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "Cognizant",
+                    "date" : "Thu, 31 Jul 2014 21:10:19 GMT",
+                    "snippet" : "Looking for <b>Java<\/b> J2ee PM Should have worked as a... Should have hands on working experience in <b>Java<\/b>\/J2EE technologies Should have excellent coordination... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=0ceb7b8389923532&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "0ceb7b8389923532",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "9 days ago"                
+}
+
+            ,
+        
+            
+                {
+                    "jobtitle" : "Software Developer 4",
+                    "company" : "Oracle",
+                    "city" : "Austin",
+                    "state" : "TX",
+                    "country" : "US",
+                    "formattedLocation" : "Austin, TX",
+                    "source" : "Oracle",
+                    "date" : "Fri, 01 Aug 2014 17:01:28 GMT",
+                    "snippet" : "related occupation. Experience must to include: 1. <b>Java<\/b> JDK 1.5 and 1.6, C\/C++, XML, HTML, and Javascript;... must to include: 1. <b>Java<\/b> JDK 1.5 and 1.6, C\/C++, XML... ",
+                    "url" : "http:\/\/www.indeed.com\/viewjob?jk=9c8d50bc3100aced&qd=r50rhwA0V_7XJcuqvrf3vsSM1pMcJcHirCg4g0uapFgRdIPXjia8Il1dvSZwyXqeB8v8XNDJm_dTbY3Vf-m8EdVTY59wl563SjaO1lyWumw&indpubnum=8728887411481405&atk=18v0j8qod1d2h53b",
+                    "onmousedown" : "indeed_clk(this, '3721');",
+                    "latitude" : 30.266483,
+                    "longitude" : -97.74176,
+                    "jobkey" : "9c8d50bc3100aced",
+                    "sponsored" : false,
+                    "expired" : false,
+                    "indeedApply" : false,
+                    "formattedLocationFull" : "Austin, TX",
+                    "formattedRelativeTime" : "9 days ago"                
+}
+
+            
+        
+    ]
+}
+
