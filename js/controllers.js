@@ -1,7 +1,7 @@
 var indeedApp = angular.module('indeedApp', []);
 
 indeedApp.controller('JobListCtrl', ['$scope', '$http', function ($scope, $http) {
-    $http.get('/data/jobs.json').
+    $http.get('https://gsmanu.github.io/indeedapp/data/jobs.json').
     success(function(data, status, headers, config) {
 	$scope.status = status;
         $scope.data = data;
